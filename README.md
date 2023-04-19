@@ -16,6 +16,8 @@
 
 - https://github.com/baaivision/Painter
 
+- https://github.com/IDEA-Research/GroundingDINO
+
 ## Fine-Tuning SAM
 
 - https://encord.com/blog/learn-how-to-fine-tune-the-segment-anything-model-sam/
