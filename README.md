@@ -18,6 +18,8 @@
 
 - https://github.com/IDEA-Research/GroundingDINO
 
+- https://github.com/IDEA-Research/Grounded-Segment-Anything
+
 ## Fine-Tuning SAM
 
 - https://encord.com/blog/learn-how-to-fine-tune-the-segment-anything-model-sam/
