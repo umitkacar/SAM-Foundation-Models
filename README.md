@@ -14,6 +14,8 @@
 
 - https://github.com/vietanhdev/anylabeling
 
+- https://github.com/baaivision/Painter
+
 ## Fine-Tuning SAM
 
 - https://encord.com/blog/learn-how-to-fine-tune-the-segment-anything-model-sam/
