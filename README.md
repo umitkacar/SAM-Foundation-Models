@@ -1,5 +1,7 @@
 # SAM-Extension
 
+- https://github.com/SysCV/MaskFreeVIS
+
 - https://github.com/JerryX1110/awesome-segment-anything-extensions
 
 - https://github.com/facebookresearch/segment-anything
