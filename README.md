@@ -22,6 +22,10 @@
 
 - https://github.com/IDEA-Research/Grounded-Segment-Anything
 
+- https://github.com/ttengwang/Caption-Anything
+
+- https://github.com/showlab/ShowAnything
+
 ## Fine-Tuning SAM
 
 - https://encord.com/blog/learn-how-to-fine-tune-the-segment-anything-model-sam/
