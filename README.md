@@ -28,6 +28,12 @@
 
 - https://github.com/fudan-zvg/Semantic-Segment-Anything
 
+- https://github.com/PaddlePaddle/PaddleSeg
+
+## PAPER WITH CODE
+
+- https://paperswithcode.com/paper/segment-anything
+
 ## NEW ***
 
 - https://github.com/UX-Decoder/Segment-Everything-Everywhere-All-At-Once
