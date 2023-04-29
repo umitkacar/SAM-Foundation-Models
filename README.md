@@ -28,6 +28,10 @@
 
 - https://github.com/fudan-zvg/Semantic-Segment-Anything
 
+## NEW ***
+
+- https://github.com/UX-Decoder/Segment-Everything-Everywhere-All-At-Once
+
 ## CLIP
 
 - [Learning Transferable Visual Models From Natural Language Supervision](https://arxiv.org/pdf/2103.00020.pdf)
