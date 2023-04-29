@@ -26,6 +26,15 @@
 
 - https://github.com/showlab/ShowAnything
 
+- https://github.com/fudan-zvg/Semantic-Segment-Anything
+
+## CLIP
+
+- [Learning Transferable Visual Models From Natural Language Supervision](https://arxiv.org/pdf/2103.00020.pdf)
+
+https://github.com/OpenAI/CLIP
+
+
 ## Fine-Tuning SAM
 
 - https://encord.com/blog/learn-how-to-fine-tune-the-segment-anything-model-sam/
