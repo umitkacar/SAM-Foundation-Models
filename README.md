@@ -4,6 +4,8 @@
 
 - https://github.com/JerryX1110/awesome-segment-anything-extensions
 
+- https://github.com/geekyutao/Inpaint-Anything
+
 - https://github.com/facebookresearch/segment-anything
 
 - https://github.com/yeungchenwa/OCR-SAM
