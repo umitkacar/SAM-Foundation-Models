@@ -4,6 +4,8 @@
 
 - https://www.youtube.com/@robmulla
 
+- https://www.youtube.com/@ArjanCodes/videos
+
 ## GITHUB
 
 - https://github.com/SysCV/MaskFreeVIS
