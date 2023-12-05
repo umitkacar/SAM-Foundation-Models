@@ -11,6 +11,8 @@
 - [AUTODISTILL](https://github.com/autodistill/autodistill)
 
 - [MobileSAM](https://github.com/ChaoningZhang/MobileSAM)
+
+- [ClickSEG](https://github.com/XavierCHEN34/ClickSEG/)
   
 ## GITHUB
 
