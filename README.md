@@ -18,6 +18,8 @@
   
 ## GITHUB
 
+- https://github.com/Deci-AI/super-gradients
+
 - https://github.com/IDEA-Research/Grounded-Segment-Anything
 
 - https://github.com/SysCV/MaskFreeVIS
