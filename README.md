@@ -7,6 +7,8 @@
 - [GroundingDINO](https://github.com/IDEA-Research/GroundingDINO)
 
 - [RAM](https://github.com/xinyu1205/recognize-anything/tree/main)
+
+- [AUTODISTILL](https://github.com/autodistill/autodistill)
   
 
 ## GITHUB
