@@ -2,13 +2,13 @@
 
 - [Grounded-SAM](https://github.com/IDEA-Research/Grounded-Segment-Anything)
 
+- [RAM](https://github.com/xinyu1205/recognize-anything/tree/main)
+
 - [SEEM](https://github.com/UX-Decoder/Segment-Everything-Everywhere-All-At-Once)
 
 - [CLIP](https://github.com/OpenAI/CLIP)
 
 - [GroundingDINO](https://github.com/IDEA-Research/GroundingDINO)
-
-- [RAM](https://github.com/xinyu1205/recognize-anything/tree/main)
 
 - [AUTODISTILL](https://github.com/autodistill/autodistill)
 
