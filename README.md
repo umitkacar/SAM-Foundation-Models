@@ -1,12 +1,15 @@
 # Foundation-Model
 
-## YOUTUBE
+- [SEEM](https://github.com/UX-Decoder/Segment-Everything-Everywhere-All-At-Once)
 
-- https://www.youtube.com/@robmulla
+- [CLIP](https://github.com/OpenAI/CLIP)
 
-- https://www.youtube.com/@ArjanCodes/videos
+- [GroundingDINO](https://github.com/IDEA-Research/GroundingDINO)
+  
 
 ## GITHUB
+
+- https://github.com/IDEA-Research/Grounded-Segment-Anything
 
 - https://github.com/SysCV/MaskFreeVIS
 
@@ -28,10 +31,6 @@
 
 - https://github.com/baaivision/Painter
 
-- https://github.com/IDEA-Research/GroundingDINO
-
-- https://github.com/IDEA-Research/Grounded-Segment-Anything
-
 - https://github.com/ttengwang/Caption-Anything
 
 - https://github.com/showlab/ShowAnything
@@ -44,17 +43,14 @@
 
 - https://paperswithcode.com/paper/segment-anything
 
-## NEW ***
+## YOUTUBE
 
-- https://github.com/UX-Decoder/Segment-Everything-Everywhere-All-At-Once
+- https://www.youtube.com/@robmulla
 
-## CLIP
-
-- [Learning Transferable Visual Models From Natural Language Supervision](https://arxiv.org/pdf/2103.00020.pdf)
-
-https://github.com/OpenAI/CLIP
+- https://www.youtube.com/@ArjanCodes/videos
 
 
-## Fine-Tuning SAM
 
-- https://encord.com/blog/learn-how-to-fine-tune-the-segment-anything-model-sam/
+
+
+
