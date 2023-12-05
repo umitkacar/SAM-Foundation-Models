@@ -9,8 +9,9 @@
 - [RAM](https://github.com/xinyu1205/recognize-anything/tree/main)
 
 - [AUTODISTILL](https://github.com/autodistill/autodistill)
-  
 
+- [MobileSAM](https://github.com/ChaoningZhang/MobileSAM)
+  
 ## GITHUB
 
 - https://github.com/IDEA-Research/Grounded-Segment-Anything
