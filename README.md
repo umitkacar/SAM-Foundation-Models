@@ -1,5 +1,7 @@
 # Foundation-Model
 
+- [Grounded-SAM](https://github.com/IDEA-Research/Grounded-Segment-Anything)
+
 - [SEEM](https://github.com/UX-Decoder/Segment-Everything-Everywhere-All-At-Once)
 
 - [CLIP](https://github.com/OpenAI/CLIP)
