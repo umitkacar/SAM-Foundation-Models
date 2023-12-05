@@ -1,4 +1,4 @@
-# SAM-Extension
+# Foundation-Model
 
 ## YOUTUBE
 
