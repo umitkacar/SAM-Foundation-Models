@@ -14,6 +14,8 @@
 
 - [MobileSAM](https://github.com/ChaoningZhang/MobileSAM)
 
+- [EfficientSAM](https://github.com/yformer/EfficientSAM)
+
 - [ClickSEG](https://github.com/XavierCHEN34/ClickSEG/)
   
 ## GITHUB
