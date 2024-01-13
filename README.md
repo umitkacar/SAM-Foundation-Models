@@ -27,6 +27,7 @@
 - https://github.com/OroChippw/SegmentAnything-OnnxRunner
 - https://github.com/AndreyGermanov/sam_onnx_full_export/blob/main/sam_onnx_export.ipynb
 - https://github.com/ZHEQIUSHUI/SAM-ONNX-AX650-CPP
+- https://github.com/DmitryYurov/SAM2ONNX
   
 ## GITHUB
 
