@@ -30,6 +30,7 @@
 - https://github.com/DmitryYurov/SAM2ONNX
 - https://github.com/PINTO0309/PINTO_model_zoo
 - https://github.com/AndreyGermanov/sam_onnx_rust
+- https://github.com/slz929/EdgeSAM-MNN
   
 ## GITHUB
 
