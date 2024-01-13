@@ -29,6 +29,7 @@
 - https://github.com/ZHEQIUSHUI/SAM-ONNX-AX650-CPP
 - https://github.com/DmitryYurov/SAM2ONNX
 - https://github.com/PINTO0309/PINTO_model_zoo
+- https://github.com/AndreyGermanov/sam_onnx_rust
   
 ## GITHUB
 
