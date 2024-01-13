@@ -24,6 +24,7 @@
 
 - https://github.com/vietanhdev/samexporter
 - https://github.com/thislookshard/SamSharp
+- https://github.com/OroChippw/SegmentAnything-OnnxRunner
   
 ## GITHUB
 
