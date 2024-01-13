@@ -23,6 +23,7 @@
 ## ONNX EXPORTER
 
 - https://github.com/vietanhdev/samexporter
+- https://github.com/thislookshard/SamSharp
   
 ## GITHUB
 
