@@ -31,6 +31,7 @@
 - https://github.com/PINTO0309/PINTO_model_zoo
 - https://github.com/AndreyGermanov/sam_onnx_rust
 - https://github.com/slz929/EdgeSAM-MNN
+- https://github.com/wangzhaode/mnn-segment-anything
   
 ## GITHUB
 
