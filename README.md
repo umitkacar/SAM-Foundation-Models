@@ -34,6 +34,7 @@
 - https://github.com/wangzhaode/mnn-segment-anything
 - https://github.com/cyrillkuettel/Libtorch-MobileSAM-Example
 - https://github.com/YavorGIvanov/sam.cpp
+- https://github.com/ryouchinsa/sam-cpp-macos
   
 ## GITHUB
 
