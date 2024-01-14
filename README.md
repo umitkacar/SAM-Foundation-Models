@@ -35,6 +35,7 @@
 - https://github.com/cyrillkuettel/Libtorch-MobileSAM-Example
 - https://github.com/YavorGIvanov/sam.cpp
 - https://github.com/ryouchinsa/sam-cpp-macos
+- https://github.com/dinglufe/segment-anything-cpp-wrapper
   
 ## GITHUB
 
