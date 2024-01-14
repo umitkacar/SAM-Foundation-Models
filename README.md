@@ -1,6 +1,6 @@
 # Foundation-Model
 
-- [Personalize-SAM](https://github.com/ZrrSkywalker/Personalize-SAM)
+- [Personalize-SAM](https://github.com/ZrrSkywalker/Personalize-SAM) - Stable Diffusion
 - [Grounded-SAM](https://github.com/IDEA-Research/Grounded-Segment-Anything)
 - [RAM](https://github.com/xinyu1205/recognize-anything/tree/main)
 - [SEEM](https://github.com/UX-Decoder/Segment-Everything-Everywhere-All-At-Once)
@@ -9,11 +9,11 @@
 - [AUTODISTILL](https://github.com/autodistill/autodistill)
 - [MobileSAM](https://github.com/ChaoningZhang/MobileSAM)
 - [EdgeSAM](https://github.com/chongzhou96/EdgeSAM)
-- [HQ-SAM](https://github.com/SysCV/sam-hq)
-- [FastSAM](https://github.com/CASIA-IVA-Lab/FastSAM)
+- [HQ-SAM](https://github.com/SysCV/sam-hq) - Training
+- [FastSAM](https://github.com/CASIA-IVA-Lab/FastSAM) - prompt free
 - [EfficientSAM](https://github.com/yformer/EfficientSAM)
 - [ClickSEG](https://github.com/XavierCHEN34/ClickSEG/)
-- [Semantic-Segment-Anything](https://github.com/fudan-zvg/Semantic-Segment-Anything)
+- [Semantic-Segment-Anything](https://github.com/fudan-zvg/Semantic-Segment-Anything) - Label
 
 ## ONNX EXPORTER
 
