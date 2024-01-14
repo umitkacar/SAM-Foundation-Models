@@ -33,6 +33,7 @@
 - https://github.com/slz929/EdgeSAM-MNN
 - https://github.com/wangzhaode/mnn-segment-anything
 - https://github.com/cyrillkuettel/Libtorch-MobileSAM-Example
+- https://github.com/YavorGIvanov/sam.cpp
   
 ## GITHUB
 
