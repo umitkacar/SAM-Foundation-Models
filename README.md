@@ -20,6 +20,8 @@
 
 - [HQ-SAM](https://github.com/SysCV/sam-hq)
 
+- [FastSAM](https://github.com/CASIA-IVA-Lab/FastSAM)
+
 - [EfficientSAM](https://github.com/yformer/EfficientSAM)
 
 - [ClickSEG](https://github.com/XavierCHEN34/ClickSEG/)
