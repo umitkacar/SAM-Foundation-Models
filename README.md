@@ -18,6 +18,8 @@
 
 - [EdgeSAM](https://github.com/chongzhou96/EdgeSAM)
 
+- [HQ-SAM](https://github.com/SysCV/sam-hq)
+
 - [EfficientSAM](https://github.com/yformer/EfficientSAM)
 
 - [ClickSEG](https://github.com/XavierCHEN34/ClickSEG/)
