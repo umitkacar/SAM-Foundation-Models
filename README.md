@@ -55,6 +55,7 @@
 ## PAPER WITH CODE
 
 - https://paperswithcode.com/paper/segment-anything
+- [A Comprehensive Survey on Segment Anything Model for Vision and Beyond](https://arxiv.org/pdf/2305.08196.pdf)
 
 ## YOUTUBE
 
