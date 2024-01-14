@@ -16,6 +16,7 @@
 - [Semantic-Segment-Anything](https://github.com/fudan-zvg/Semantic-Segment-Anything) - Label
 - [Image2Paragraph](https://github.com/showlab/Image2Paragraph)
 - [TinySAM](https://github.com/xinghaochen/TinySAM)
+- [detect-anyshadow](https://github.com/harrytea/detect-anyshadow)
 
 ## ONNX EXPORTER
 
