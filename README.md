@@ -15,6 +15,7 @@
 - [ClickSEG](https://github.com/XavierCHEN34/ClickSEG/)
 - [Semantic-Segment-Anything](https://github.com/fudan-zvg/Semantic-Segment-Anything) - Label
 - [Image2Paragraph](https://github.com/showlab/Image2Paragraph)
+- [TinySAM](https://github.com/xinghaochen/TinySAM)
 
 ## ONNX EXPORTER
 
