@@ -1,5 +1,7 @@
 # Foundation-Model
 
+- [Personalize-SAM](https://github.com/ZrrSkywalker/Personalize-SAM)
+
 - [Grounded-SAM](https://github.com/IDEA-Research/Grounded-Segment-Anything)
 
 - [RAM](https://github.com/xinyu1205/recognize-anything/tree/main)
