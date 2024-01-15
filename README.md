@@ -70,6 +70,10 @@
 
 - https://docs.ultralytics.com/models/fast-sam/#predict-usage
 
+## Detection Backbone
+
+- https://github.com/ViTAE-Transformer/ViTDet
+
 
 
 
