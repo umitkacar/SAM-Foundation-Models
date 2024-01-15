@@ -1,4 +1,4 @@
-# Foundation-Model
+# Foundation-Models
 
 - [Personalize-SAM](https://github.com/ZrrSkywalker/Personalize-SAM) - Stable Diffusion
 - [Grounded-SAM](https://github.com/IDEA-Research/Grounded-Segment-Anything)
