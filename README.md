@@ -73,6 +73,7 @@
 ## Detection Backbone
 
 - https://github.com/ViTAE-Transformer/ViTDet
+- https://github.com/facebookresearch/Detic
 
 
 
