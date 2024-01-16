@@ -74,6 +74,7 @@
 
 - https://github.com/ViTAE-Transformer/ViTDet
 - https://github.com/facebookresearch/Detic
+- https://github.com/THU-MIG/RepViT
 
 
 
