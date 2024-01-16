@@ -14,6 +14,7 @@
 - [HQ-SAM](https://github.com/SysCV/sam-hq) - Training
 - [FastSAM](https://github.com/CASIA-IVA-Lab/FastSAM) - prompt free
 - [EfficientSAM](https://github.com/yformer/EfficientSAM)
+- [RepViT-SAM](https://github.com/THU-MIG/RepViT)
 - [ClickSEG](https://github.com/XavierCHEN34/ClickSEG/)
 - [Semantic-Segment-Anything](https://github.com/fudan-zvg/Semantic-Segment-Anything) - Label
 - [Image2Paragraph](https://github.com/showlab/Image2Paragraph)
