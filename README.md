@@ -1,6 +1,6 @@
 # Foundation-Models
 
-- [Personalize-SAM](https://github.com/ZrrSkywalker/Personalize-SAM) - Stable Diffusion
+- [Personalize-SAM](https://github.com/ZrrSkywalker/Personalize-SAM) - DreamBooth
   - https://github.com/NielsRogge/Transformers-Tutorials/tree/master/PerSAM
   - https://encord.com/blog/mask-rcnn-vs-per-sam/
 - [Grounded-SAM](https://github.com/IDEA-Research/Grounded-Segment-Anything)
