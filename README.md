@@ -77,6 +77,10 @@
 - https://github.com/facebookresearch/Detic
 - https://github.com/THU-MIG/RepViT
 
+## 3D Segmentation
+
+- https://github.com/lkeab/gaussian-grouping
+
 
 
 
