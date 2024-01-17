@@ -1,8 +1,8 @@
 # Foundation-Models
 
 - [Personalize-SAM](https://github.com/ZrrSkywalker/Personalize-SAM) - Stable Diffusion
-- https://github.com/NielsRogge/Transformers-Tutorials/tree/master/PerSAM
-- https://encord.com/blog/mask-rcnn-vs-per-sam/
+  - https://github.com/NielsRogge/Transformers-Tutorials/tree/master/PerSAM
+  - https://encord.com/blog/mask-rcnn-vs-per-sam/
 - [Grounded-SAM](https://github.com/IDEA-Research/Grounded-Segment-Anything)
 - [RAM](https://github.com/xinyu1205/recognize-anything/tree/main)
 - [SEEM](https://github.com/UX-Decoder/Segment-Everything-Everywhere-All-At-Once)
