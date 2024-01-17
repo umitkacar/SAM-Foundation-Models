@@ -81,6 +81,11 @@
 
 - https://github.com/lkeab/gaussian-grouping
 
+## DETECTRON
+
+- https://detectron2.readthedocs.io/en/latest/notes/benchmarks.html
+
+
 
 
 
