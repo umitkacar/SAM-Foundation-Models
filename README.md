@@ -12,6 +12,7 @@
 - [MobileSAM](https://github.com/ChaoningZhang/MobileSAM)
 - [EdgeSAM](https://github.com/chongzhou96/EdgeSAM)
 - [HQ-SAM](https://github.com/SysCV/sam-hq) - Training
+- [Osprey](https://github.com/CircleRadon/Osprey) 
 - [FastSAM](https://github.com/CASIA-IVA-Lab/FastSAM) - prompt free
 - [EfficientSAM](https://github.com/yformer/EfficientSAM)
 - [RepViT-SAM](https://github.com/THU-MIG/RepViT)
