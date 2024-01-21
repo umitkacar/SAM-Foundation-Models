@@ -23,6 +23,7 @@
 - [Image2Paragraph](https://github.com/showlab/Image2Paragraph)
 - [TinySAM](https://github.com/xinghaochen/TinySAM)
 - [detect-anyshadow](https://github.com/harrytea/detect-anyshadow)
+- [anylabeling](https://github.com/vietanhdev/anylabeling)
 
 ## ONNX EXPORTER
 - https://github.com/AndreyGermanov/sam_onnx_full_export
