@@ -25,19 +25,20 @@
 - [detect-anyshadow](https://github.com/harrytea/detect-anyshadow)
 
 ## ONNX EXPORTER
-
-- https://github.com/vietanhdev/samexporter
-- https://github.com/thislookshard/SamSharp
-- https://github.com/OroChippw/SegmentAnything-OnnxRunner
-- https://github.com/AndreyGermanov/sam_onnx_full_export/blob/main/sam_onnx_export.ipynb
-- https://github.com/ZHEQIUSHUI/SAM-ONNX-AX650-CPP
+- https://github.com/AndreyGermanov/sam_onnx_full_export
 - https://github.com/DmitryYurov/SAM2ONNX
-- https://github.com/PINTO0309/PINTO_model_zoo
+- https://github.com/PINTO0309/sam4onnx
+- https://github.com/vietanhdev/samexporter
 
 ## SAM-C++
 - https://github.com/dinglufe/segment-anything-cpp-wrapper (pure c++)
 - https://github.com/ryouchinsa/sam-cpp-macos (extended)
-- https://github.com/YavorGIvanov/sam.cpp
+- https://github.com/YavorGIvanov/sam.cpp (ggml)
+- https://github.com/OroChippw/SegmentAnything-OnnxRunner
+- https://github.com/ZHEQIUSHUI/SAM-ONNX-AX650-CPP (QT - lama inpaint)
+
+## SAM-C#
+- https://github.com/thislookshard/SamSharp
 
 ## SAM-MNN
 - https://github.com/slz929/EdgeSAM-MNN
@@ -67,6 +68,7 @@
 - https://github.com/showlab/ShowAnything
 - https://github.com/fudan-zvg/Semantic-Segment-Anything
 - https://github.com/PaddlePaddle/PaddleSeg
+- https://github.com/PINTO0309/PINTO_model_zoo
 
 ## PAPER WITH CODE
 
