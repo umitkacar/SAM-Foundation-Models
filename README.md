@@ -49,9 +49,11 @@
 
 ## SAM-LIBTORCH
 - https://github.com/cyrillkuettel/Libtorch-MobileSAM-Example
+
+## SAM-YOLO
+- https://docs.ultralytics.com/models/fast-sam/#predict-usage
   
 ## GITHUB
-
 - https://github.com/Deci-AI/super-gradients
 - https://github.com/IDEA-Research/Grounded-Segment-Anything
 - https://github.com/SysCV/MaskFreeVIS
@@ -76,26 +78,18 @@
 - [A Comprehensive Survey on Segment Anything Model for Vision and Beyond](https://arxiv.org/pdf/2305.08196.pdf)
 
 ## YOUTUBE
-
 - https://www.youtube.com/@robmulla
 - https://www.youtube.com/@ArjanCodes/videos
 
-## SAM-YOLO
-
-- https://docs.ultralytics.com/models/fast-sam/#predict-usage
-
 ## Detection Backbone
-
 - https://github.com/ViTAE-Transformer/ViTDet
 - https://github.com/facebookresearch/Detic
 - https://github.com/THU-MIG/RepViT
 
 ## 3D Segmentation
-
 - https://github.com/lkeab/gaussian-grouping
 
 ## DETECTRON
-
 - https://detectron2.readthedocs.io/en/latest/notes/benchmarks.html
 
 
