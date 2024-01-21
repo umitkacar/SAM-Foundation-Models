@@ -80,7 +80,7 @@
 - https://www.youtube.com/@robmulla
 - https://www.youtube.com/@ArjanCodes/videos
 
-## YOLO + SAM
+## SAM-YOLO
 
 - https://docs.ultralytics.com/models/fast-sam/#predict-usage
 
