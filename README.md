@@ -33,13 +33,21 @@
 - https://github.com/ZHEQIUSHUI/SAM-ONNX-AX650-CPP
 - https://github.com/DmitryYurov/SAM2ONNX
 - https://github.com/PINTO0309/PINTO_model_zoo
-- https://github.com/AndreyGermanov/sam_onnx_rust
+
+## SAM-C++
+- https://github.com/dinglufe/segment-anything-cpp-wrapper (pure c++)
+- https://github.com/ryouchinsa/sam-cpp-macos (extended)
+- https://github.com/YavorGIvanov/sam.cpp
+
+## SAM-MNN
 - https://github.com/slz929/EdgeSAM-MNN
 - https://github.com/wangzhaode/mnn-segment-anything
+
+## SAM-RUST
+- https://github.com/AndreyGermanov/sam_onnx_rust
+
+## SAM-LIBTORCH
 - https://github.com/cyrillkuettel/Libtorch-MobileSAM-Example
-- https://github.com/YavorGIvanov/sam.cpp
-- https://github.com/ryouchinsa/sam-cpp-macos (extended)
-- https://github.com/dinglufe/segment-anything-cpp-wrapper (pure c++) 
   
 ## GITHUB
 
