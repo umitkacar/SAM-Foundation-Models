@@ -35,6 +35,7 @@
 - https://github.com/hplqaq/sam-deblur
 
 ### 2023
+- https://github.com/shi-labs/matting-anything
 - https://github.com/JerryX1110/awesome-segment-anything-extensions
 - https://github.com/geekyutao/Inpaint-Anything
 - https://github.com/baaivision/Painter
