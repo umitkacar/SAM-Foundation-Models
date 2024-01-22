@@ -46,6 +46,12 @@
 - https://github.com/showlab/ShowAnything
 - https://github.com/ylqi/Count-Anything
 
+## 3D Segmentation
+- https://github.com/lkeab/gaussian-grouping
+- https://github.com/LiheYoung/Depth-Anything
+- https://github.com/chungmin99/garfield
+
+
 ## ONNX EXPORTER
 - https://github.com/AndreyGermanov/sam_onnx_full_export
 - https://github.com/DmitryYurov/SAM2ONNX
@@ -80,7 +86,6 @@
 - https://github.com/pharmapsychotic/clip-interrogator
   
 ## PAPER WITH CODE
-
 - https://paperswithcode.com/paper/segment-anything
 - [A Comprehensive Survey on Segment Anything Model for Vision and Beyond](https://arxiv.org/pdf/2305.08196.pdf)
 
@@ -92,11 +97,6 @@
 - https://github.com/ViTAE-Transformer/ViTDet
 - https://github.com/facebookresearch/Detic
 - https://github.com/THU-MIG/RepViT
-
-## 3D Segmentation
-- https://github.com/LiheYoung/Depth-Anything
-- https://github.com/chungmin99/garfield
-- https://github.com/lkeab/gaussian-grouping
 
 ## DETECTRON
 - https://detectron2.readthedocs.io/en/latest/notes/benchmarks.html
