@@ -112,6 +112,9 @@
 - https://github.com/PaddlePaddle/PaddleSeg
 - https://github.com/PINTO0309/PINTO_model_zoo
 
+## DEBLUR 
+- https://github.com/megvii-research/NAFNet
+
 
 
 
