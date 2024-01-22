@@ -27,6 +27,7 @@
 - https://github.com/AIGCDesignGroup/ReplaceAnything
 - https://github.com/LiheYoung/Depth-Anything
 - https://github.com/chungmin99/garfield
+- https://github.com/lkeab/gaussian-grouping
 
 ### 2023
 - https://github.com/JerryX1110/awesome-segment-anything-extensions
@@ -93,6 +94,8 @@
 - https://github.com/THU-MIG/RepViT
 
 ## 3D Segmentation
+- https://github.com/LiheYoung/Depth-Anything
+- https://github.com/chungmin99/garfield
 - https://github.com/lkeab/gaussian-grouping
 
 ## DETECTRON
