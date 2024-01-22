@@ -25,12 +25,14 @@
 ## ANYTHING PROJECTS
 ### 2024
 - https://github.com/AIGCDesignGroup/ReplaceAnything
+- https://github.com/LiheYoung/Depth-Anything
 
 ### 2023
 - https://github.com/JerryX1110/awesome-segment-anything-extensions
 - https://github.com/geekyutao/Inpaint-Anything
 - https://github.com/baaivision/Painter
 - https://github.com/sail-sg/EditAnything
+- https://github.com/RockeyCoss/Prompt-Segment-Anything
 - https://github.com/IDEA-Research/Grounded-Segment-Anything
 - https://github.com/caoyunkang/Segment-Any-Anomaly
 - https://github.com/caoyunkang/GroundedSAM-zero-shot-anomaly-detection
@@ -40,6 +42,7 @@
 - https://github.com/harrytea/detect-anyshadow
 - https://github.com/ttengwang/Caption-Anything
 - https://github.com/showlab/ShowAnything
+- https://github.com/ylqi/Count-Anything
 
 ## ONNX EXPORTER
 - https://github.com/AndreyGermanov/sam_onnx_full_export
@@ -72,19 +75,8 @@
   
 ## OTHERS
 - https://github.com/SysCV/MaskFreeVIS
+- https://github.com/pharmapsychotic/clip-interrogator
   
-
-
-
-
-
-
-
-
-
-
-
-
 ## PAPER WITH CODE
 
 - https://paperswithcode.com/paper/segment-anything
