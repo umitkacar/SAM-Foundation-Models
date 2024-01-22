@@ -1,5 +1,4 @@
 # Foundation-Models
-
 - [Personalize-SAM](https://github.com/ZrrSkywalker/Personalize-SAM) - DreamBooth
   - https://github.com/NielsRogge/Transformers-Tutorials/tree/master/PerSAM
   - https://encord.com/blog/mask-rcnn-vs-per-sam/
@@ -19,11 +18,27 @@
   - https://github.com/IDEA-Research/Grounded-Segment-Anything/tree/main/EfficientSAM
 - [RepViT-SAM](https://github.com/THU-MIG/RepViT)
 - [ClickSEG](https://github.com/XavierCHEN34/ClickSEG/)
-- [Semantic-Segment-Anything](https://github.com/fudan-zvg/Semantic-Segment-Anything) - Label
 - [Image2Paragraph](https://github.com/showlab/Image2Paragraph)
 - [TinySAM](https://github.com/xinghaochen/TinySAM)
-- [detect-anyshadow](https://github.com/harrytea/detect-anyshadow)
-- [anylabeling](https://github.com/vietanhdev/anylabeling)
+- [OCR-SAM](https://github.com/yeungchenwa/OCR-SAM)
+
+## ANYTHING PROJECTS
+### 2024
+- https://github.com/AIGCDesignGroup/ReplaceAnything
+
+### 2023
+- https://github.com/JerryX1110/awesome-segment-anything-extensions
+- https://github.com/geekyutao/Inpaint-Anything
+- https://github.com/baaivision/Painter
+- https://github.com/IDEA-Research/Grounded-Segment-Anything
+- https://github.com/caoyunkang/Segment-Any-Anomaly
+- https://github.com/caoyunkang/GroundedSAM-zero-shot-anomaly-detection
+- https://github.com/z-x-yang/Segment-and-Track-Anything
+- https://github.com/vietanhdev/anylabeling
+- https://github.com/fudan-zvg/Semantic-Segment-Anything
+- https://github.com/harrytea/detect-anyshadow
+- https://github.com/ttengwang/Caption-Anything
+- https://github.com/showlab/ShowAnything
 
 ## ONNX EXPORTER
 - https://github.com/AndreyGermanov/sam_onnx_full_export
@@ -54,24 +69,20 @@
 ## SAM-YOLO
 - https://docs.ultralytics.com/models/fast-sam/#predict-usage
   
-## *** ANYTHING GITHUB REPO ***
-- https://github.com/Deci-AI/super-gradients
-- https://github.com/IDEA-Research/Grounded-Segment-Anything
+## OTHERS
 - https://github.com/SysCV/MaskFreeVIS
-- https://github.com/JerryX1110/awesome-segment-anything-extensions
-- https://github.com/geekyutao/Inpaint-Anything
-- https://github.com/facebookresearch/segment-anything
-- https://github.com/yeungchenwa/OCR-SAM
-- https://github.com/caoyunkang/GroundedSAM-zero-shot-anomaly-detection
-- https://github.com/IDEA-Research/Grounded-Segment-Anything#grounded-segment-anything
-- https://github.com/z-x-yang/Segment-and-Track-Anything
-- https://github.com/vietanhdev/anylabeling
-- https://github.com/baaivision/Painter
-- https://github.com/ttengwang/Caption-Anything
-- https://github.com/showlab/ShowAnything
-- https://github.com/fudan-zvg/Semantic-Segment-Anything
-- https://github.com/PaddlePaddle/PaddleSeg
-- https://github.com/PINTO0309/PINTO_model_zoo
+  
+
+
+
+
+
+
+
+
+
+
+
 
 ## PAPER WITH CODE
 
@@ -92,6 +103,10 @@
 
 ## DETECTRON
 - https://detectron2.readthedocs.io/en/latest/notes/benchmarks.html
+
+## MODEL ZOO
+- https://github.com/PaddlePaddle/PaddleSeg
+- https://github.com/PINTO0309/PINTO_model_zoo
 
 
 
