@@ -40,6 +40,7 @@
 - https://github.com/caoyunkang/GroundedSAM-zero-shot-anomaly-detection
 - https://github.com/z-x-yang/Segment-and-Track-Anything
 - https://github.com/vietanhdev/anylabeling
+- https://github.com/anuragxel/salt (Segment Anything Labelling Tool)
 - https://github.com/fudan-zvg/Semantic-Segment-Anything
 - https://github.com/harrytea/detect-anyshadow
 - https://github.com/ttengwang/Caption-Anything
