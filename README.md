@@ -26,6 +26,7 @@
 ### 2024
 - https://github.com/AIGCDesignGroup/ReplaceAnything
 - https://github.com/LiheYoung/Depth-Anything
+- https://github.com/chungmin99/garfield
 
 ### 2023
 - https://github.com/JerryX1110/awesome-segment-anything-extensions
