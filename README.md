@@ -54,7 +54,7 @@
 ## SAM-YOLO
 - https://docs.ultralytics.com/models/fast-sam/#predict-usage
   
-## GITHUB
+## *** ANYTHING GITHUB REPO ***
 - https://github.com/Deci-AI/super-gradients
 - https://github.com/IDEA-Research/Grounded-Segment-Anything
 - https://github.com/SysCV/MaskFreeVIS
