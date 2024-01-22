@@ -21,6 +21,7 @@
 - [Image2Paragraph](https://github.com/showlab/Image2Paragraph)
 - [TinySAM](https://github.com/xinghaochen/TinySAM)
 - [OCR-SAM](https://github.com/yeungchenwa/OCR-SAM)
+- [RAP-SAM](https://github.com/xushilin1/rap-sam) (Real-Time All-Purpose on Video)
 
 ## ANYTHING PROJECTS
 ### 2024
@@ -28,6 +29,7 @@
 - https://github.com/LiheYoung/Depth-Anything
 - https://github.com/chungmin99/garfield
 - https://github.com/lkeab/gaussian-grouping
+- https://github.com/xushilin1/rap-sam (Real-Time All-Purpose on Video)
 
 ### 2023
 - https://github.com/JerryX1110/awesome-segment-anything-extensions
