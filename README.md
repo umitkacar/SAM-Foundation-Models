@@ -46,11 +46,13 @@
 - https://github.com/ttengwang/Caption-Anything
 - https://github.com/showlab/ShowAnything
 - https://github.com/ylqi/Count-Anything
+- https://github.com/Anything-of-anything/Anything-3D
 
 ## 3D Segmentation
 - https://github.com/lkeab/gaussian-grouping
 - https://github.com/LiheYoung/Depth-Anything
 - https://github.com/chungmin99/garfield
+- https://github.com/Anything-of-anything/Anything-3D
 
 
 ## ONNX EXPORTER
