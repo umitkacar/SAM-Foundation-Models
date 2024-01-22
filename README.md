@@ -30,6 +30,7 @@
 - https://github.com/JerryX1110/awesome-segment-anything-extensions
 - https://github.com/geekyutao/Inpaint-Anything
 - https://github.com/baaivision/Painter
+- https://github.com/sail-sg/EditAnything
 - https://github.com/IDEA-Research/Grounded-Segment-Anything
 - https://github.com/caoyunkang/Segment-Any-Anomaly
 - https://github.com/caoyunkang/GroundedSAM-zero-shot-anomaly-detection
