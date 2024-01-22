@@ -30,6 +30,7 @@
 - https://github.com/chungmin99/garfield
 - https://github.com/lkeab/gaussian-grouping
 - https://github.com/xushilin1/rap-sam (Real-Time All-Purpose on Video)
+- https://github.com/lxtgh/omg-seg
 
 ### 2023
 - https://github.com/JerryX1110/awesome-segment-anything-extensions
