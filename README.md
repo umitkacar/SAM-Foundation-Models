@@ -25,6 +25,7 @@
 
 ## ANYTHING PROJECTS
 ### 2024
+- https://github.com/harboryuan/ovsam (Open-Vocabulary)
 - https://github.com/AIGCDesignGroup/ReplaceAnything
 - https://github.com/LiheYoung/Depth-Anything
 - https://github.com/chungmin99/garfield
