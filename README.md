@@ -23,6 +23,7 @@
 - [OCR-SAM](https://github.com/yeungchenwa/OCR-SAM)
 - [RAP-SAM](https://github.com/xushilin1/rap-sam) (Real-Time All-Purpose on Video)
 - [FOOD-SAM](https://github.com/jamesjg/foodsam)
+- [Full-SAM](https://github.com/ByungKwanLee/Full-Segment-Anything)
 
 ## ANYTHING PROJECTS
 ### 2024
