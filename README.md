@@ -1,5 +1,5 @@
 # SAM-Foundation-Models
-
+- https://huggingface.co/spaces/depth-anything/Depth-Anything-V2
 - [RobustSAM](https://github.com/robustsam/RobustSAM) - CVPR 2024
 - [Personalize-SAM](https://github.com/ZrrSkywalker/Personalize-SAM) - DreamBooth
   - https://github.com/NielsRogge/Transformers-Tutorials/tree/master/PerSAM
