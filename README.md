@@ -64,6 +64,7 @@
 - https://github.com/chungmin99/garfield
 - https://github.com/Anything-of-anything/Anything-3D
 - https://github.com/buaacyw/MeshAnything
+- https://github.com/hustvl/SA4D
 
 ## ONNX EXPORTER
 - https://github.com/AndreyGermanov/sam_onnx_full_export
