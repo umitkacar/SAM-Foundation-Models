@@ -1,12 +1,19 @@
 <div align="center">
 
-# 🎯 SAM Foundation Models
+# 🎯 Awesome SAM Foundation Models
 ### *Comprehensive Resource Collection for Segment Anything*
+
+[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+[![GitHub stars](https://img.shields.io/github/stars/umitkacar/SAM-Foundation-Models?style=social&label=Star)](https://github.com/umitkacar/SAM-Foundation-Models/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/umitkacar/SAM-Foundation-Models?style=social&label=Fork)](https://github.com/umitkacar/SAM-Foundation-Models/network/members)
+[![GitHub watchers](https://img.shields.io/github/watchers/umitkacar/SAM-Foundation-Models?style=social&label=Watch)](https://github.com/umitkacar/SAM-Foundation-Models/watchers)
 
 <img src="https://img.shields.io/badge/SAM-2.1-blue?style=for-the-badge&logo=meta&logoColor=white" alt="SAM 2.1"/>
 <img src="https://img.shields.io/badge/Updated-January_2025-green?style=for-the-badge&logo=github&logoColor=white" alt="Updated"/>
 <img src="https://img.shields.io/badge/Papers-100+-red?style=for-the-badge&logo=arxiv&logoColor=white" alt="Papers"/>
 <img src="https://img.shields.io/badge/License-Apache_2.0-yellow?style=for-the-badge&logo=apache&logoColor=white" alt="License"/>
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge)](http://makeapullrequest.com)
+[![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red.svg?style=for-the-badge)](https://github.com/umitkacar/SAM-Foundation-Models)
 
 ### 🚀 Curated collection of SAM resources, implementations, optimizations & applications
 #### Updated with 2024-2025 SOTA developments
