@@ -127,3 +127,41 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# pytype static type analyzer
+.pytype/
+
+# Cython debug symbols
+cython_debug/
+
+# Hatch
+.hatch/
+
+# Ruff
+.ruff_cache/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# OS
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Project specific - SAM Models
+*.pth
+*.pt
+*.onnx
+*.safetensors
+checkpoints/
+weights/
+models/
+data/
+outputs/
+results/
