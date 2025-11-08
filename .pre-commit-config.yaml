@@ -111,18 +111,6 @@ repos:
         args: ["--py39-plus"]
 
   # ============================================================================
-  # DocFormatterDocFormatterDocFormatter - Format docstrings
-  # ============================================================================
-  - repo: https://github.com/PyCQA/docformatter
-    rev: v1.7.5
-    hooks:
-      - id: docformatter
-        args:
-          - --in-place
-          - --wrap-summaries=100
-          - --wrap-descriptions=100
-
-  # ============================================================================
   # Codespell - Check spelling
   # ============================================================================
   - repo: https://github.com/codespell-project/codespell
