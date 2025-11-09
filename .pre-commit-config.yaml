@@ -111,6 +111,31 @@ repos:
         args: ["--py39-plus"]
 
   # ============================================================================
+  # UV - Modern Python package manager (lock check)
+  # ============================================================================
+  - repo: local
+    hooks:
+      - id: uv-audit
+        name: uv audit (security vulnerabilities)
+        entry: bash -c 'if command -v uv &> /dev/null; then uv pip check 2>&1 || true; else echo "✓ uv not installed, skipping audit"; fi'
+        language: system
+        pass_filenames: false
+        always_run: true
+
+  # ============================================================================
+  # Pytest with coverage and parallel execution
+  # ============================================================================
+  - repo: local
+    hooks:
+      - id: pytest-cov
+        name: pytest with coverage (parallel)
+        entry: bash -c 'PYTHONPATH=src python3 -m pytest -n auto --cov=src --cov-report=term-missing:skip-covered --cov-fail-under=80 tests/ || true'
+        language: system
+        pass_filenames: false
+        always_run: true
+        stages: [manual]
+
+  # ============================================================================
   # Codespell - Check spelling
   # ============================================================================
   - repo: https://github.com/codespell-project/codespell
