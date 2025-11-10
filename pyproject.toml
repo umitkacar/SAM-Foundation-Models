@@ -222,8 +222,6 @@ select = [
 ]
 
 ignore = [
-    "ANN101",  # Missing type annotation for self
-    "ANN102",  # Missing type annotation for cls
     "ANN401",  # Dynamically typed expressions (Any)
     "S101",    # Use of assert
     "PLR0913", # Too many arguments
@@ -337,6 +335,7 @@ module = [
     "torchvision.*",
     "cv2.*",
     "PIL.*",
+    "pytest.*",
 ]
 ignore_missing_imports = true
 
@@ -354,14 +353,8 @@ addopts = [
     "--strict-config",
     "--showlocals",
     "--tb=short",
-    # Coverage
-    "--cov=src",
-    "--cov-report=term-missing:skip-covered",
-    "--cov-report=html",
-    "--cov-report=xml",
     # Warnings
     "-ra",
-    "--capture=no",
 ]
 markers = [
     "slow: marks tests as slow (deselect with '-m \"not slow\"')",
